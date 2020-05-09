@@ -3,3 +3,14 @@ footer .item {
   height: 220px !important;
   margin: 0;
 }
+
+div.owl-carousel3 div.item {
+  height: 350px !important;
+}
+
+div.owl-carousel3 div.item img {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
